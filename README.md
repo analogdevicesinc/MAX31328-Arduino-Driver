@@ -4,5 +4,5 @@ This project includes arduino driver and usecase examples for [MAX31328](https:/
 
 
 ## License and contributions
-The software is provided under the [Apache-2.0 license](LICENSE-apache-2.0.txt). 
+The software is provided under the [Apache-2.0 license](LICENSE.txt). 
 Contributions to this project are accepted under the same license.
